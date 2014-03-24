@@ -6,7 +6,7 @@ Web Dialer based on JsSIP
 
 ##Demo
 
-![](http://direct_public_image_url)
+![](https://raw.githubusercontent.com/ordinerf/SIPWebDialer/master/SIPWD.png)
 
 >Demo : http://sipi.fr
 
