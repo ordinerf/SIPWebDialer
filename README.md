@@ -6,6 +6,8 @@ Web Dialer based on JsSIP
 
 ##Demo
 
+![](http://direct_public_image_url)
+
 >Demo : http://sipi.fr
 
 Try to call "radio".
